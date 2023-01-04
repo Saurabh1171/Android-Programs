@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="buttonC" type="id" />
+    <item name="button7" type="id" />
+    <item name="button0" type="id" />
+    <item name="button1" type="id" />
+    <item name="button2" type="id" />
+    <item name="button3" type="id" />
+    <item name="button4" type="id" />
+    <item name="button5" type="id" />
+    <item name="editTextTextPersonName" type="id" />
+    <item name="buttonEql" type="id" />
+    <item name="buttonDiv" type="id" />
+    <item name="buttonMul" type="id" />
+    <item name="buttonDec" type="id" />
+    <item name="button8" type="id" />
+    <item name="button6" type="id" />
+    <item name="button9" type="id" />
+    <item name="buttonAdd" type="id" />
+    <item name="buttonSub" type="id" />
+</resources>
